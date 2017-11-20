@@ -17,6 +17,12 @@
         .Site-content {
             flex: 1;
         }
+        .content{
+            width: 100%;
+        }
+        p {
+            word-wrap: break-word !important;
+        }
     </style>
 </head>
 <body class="Site">
