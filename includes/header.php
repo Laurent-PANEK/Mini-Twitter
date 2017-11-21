@@ -49,7 +49,7 @@
                     <div class="ui button"><a href="/tweet.php">Tweeter</a></div>
                 </div>
             <?php else: ?>
-                <a href="/signin.php" class="item">S'inscire</a>
+                <a href="/signin.php" class="item">S'inscrire</a>
                 <a href="/login.php" class="item"><i class="sign in icon"></i>Se Connecter</a>
             <?php endif; ?>
         </div>
@@ -78,4 +78,3 @@
 </header>
 
 <main class="Site-content">
-
